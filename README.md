@@ -6,7 +6,7 @@ A estrutura segue as diretrizes de análise de competências, salarial, tendênc
 
 ---
 
-- 📄 [Relatório completo em PDF]()
+- 📄 [Relatório completo em PDF](https://github.com/nicolebiase/mercado-ti-2025/blob/main/Relatorio_Mercado_TI.pdf)
 - 🗂️ [Base de dados (CSV)]()
 
 ---
